@@ -3,6 +3,15 @@ Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Str
 
 ## Domain: Fintech
 
+### Technologies Used
+- **GitHub Cloning**: For extracting data from the Phonepe Pulse GitHub repository.
+- **Python**: The primary scripting language for data manipulation and dashboard creation.
+- **Pandas**: To handle data manipulation and preprocessing.
+- **MySQL**: For storing and retrieving transformed data.
+- **mysql-connector-python**: To establish a connection to the MySQL database.
+- **Streamlit**: To create a user-friendly and interactive dashboard.
+- **Plotly**: For building visually appealing data visualizations.
+- 
 ### Problem Statement
 The Phonepe Pulse GitHub repository is a valuable resource containing a vast dataset of financial metrics and statistics. The objective of this project is to extract, transform, and visualize this data in a user-friendly manner, providing valuable insights into the fintech domain. The solution will encompass the following steps:
 
