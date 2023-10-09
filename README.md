@@ -7,8 +7,7 @@ Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Str
 - **GitHub Cloning**: For extracting data from the Phonepe Pulse GitHub repository.
 - **Python**: The primary scripting language for data manipulation and dashboard creation.
 - **Pandas**: To handle data manipulation and preprocessing.
-- **MySQL**: For storing and retrieving transformed data.
-- **mysql-connector-python**: To establish a connection to the MySQL database.
+- **PostgreSQL**: The relational database management system used to store data.
 - **Streamlit**: To create a user-friendly and interactive dashboard.
 - **Plotly**: For building visually appealing data visualizations.
   
