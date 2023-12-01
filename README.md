@@ -10,7 +10,7 @@ Phonepe Pulse Data Visualization and Exploration: A User-Friendly Tool Using Str
 - **PostgreSQL**: The relational database management system used to store data.
 - **Streamlit**: To create a user-friendly and interactive dashboard.
 - **Plotly**: For building visually appealing data visualizations.
-  
+
 ### Problem Statement
 The Phonepe Pulse GitHub repository is a valuable resource containing a vast dataset of financial metrics and statistics. The objective of this project is to extract, transform, and visualize this data in a user-friendly manner, providing valuable insights into the fintech domain. The solution will encompass the following steps:
 
